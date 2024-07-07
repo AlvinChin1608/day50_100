@@ -22,6 +22,10 @@ This automation script uses Selenium to interact with the Tinder website. It per
 - Selenium WebDriver
 - Chrome WebDriver (ChromeDriver)
 
+## Setup
+- Clone the repository.
+- Set up environment variables for Tinder and Google credentials in a .env file.
+
 ## Notes
 - This project is for educational purposes and should be used responsibly.
 - Adjust the script's behaviour and timings based on Tinder's usage guidelines to avoid account limitations.
